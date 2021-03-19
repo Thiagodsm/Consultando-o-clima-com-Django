@@ -5,7 +5,7 @@ Django==3.0.3
 django-crispy-forms==1.9.0
 django-rest-auth==0.9.5
 django-tinymce4-lite==1.7.5
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.9
 jsmin==2.2.2
 Pillow==7.0.0
